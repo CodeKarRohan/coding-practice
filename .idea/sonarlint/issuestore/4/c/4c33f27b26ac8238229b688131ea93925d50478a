@@ -1,0 +1,39 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Ğ…¹¿8´Àº…ñ.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(äã–8¯–ªùó.
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(ûåóˆ8 Ô¥ùó.
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(äã–8ÿÿ¥ùó.
+E
+java:S1125Z"(Remove the literal "true" boolean value.(Í¾‡Å8Üòœùó.
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(Ó»æøÿÿÿÿÿ8ó±Çùó.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğªò‹8¦§¾’î.
+8
+java:S3626%"Remove this redundant jump.(ûÁİ…8ÿ®Ÿ’î.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(…è’Áûÿÿÿÿ8Á½É…ñ.
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(°İå8×¹Ï™ô.
+N
+java:S1481X"2Remove this unused "multipleOF400" local variable.(£æ]8 Ô¥ùó.
+E
+java:S1125Y"(Remove the literal "true" boolean value.(«ÈçÄ8¤à–ùó.
+a
+java:S2583g"DChange this condition so that it does not always evaluate to "false"(à³ì­8ŠÔ¨ùó.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(–›¹8·´Œùó.
+h	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(‹ÀÏ×úÿÿÿÿ8ª•æ™ô.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅòÎ©8ÌŠÙ™ô.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(òœŸË8ÔûÁ’î.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ˆîïõ8˜øÎ…ñ.
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©ÈÈùó.
+W
+java:S1854"5Remove this useless assignment to local variable "s".(ÃÁöüùÿÿÿÿ8´Àº…ñ.
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(ûåóˆ8ŠÔ¨ùó.
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(ŞºÖ8ô•Å™ô.
+]
+java:S1854X"ARemove this useless assignment to local variable "multipleOF400".(£æ]8 Ô¥ùó.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(î¤µåûÿÿÿÿ8ú÷â…ñ.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ŒîÒü8ŸÑ¹…ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™¨çèøÿÿÿÿ8İÄ°’î.
+D
+java:S1125X"(Remove the literal "true" boolean value.(£æ]8Ì„”ùó.
+H
+java:S1481"&Remove this unused "s" local variable.(ÃÁöüùÿÿÿÿ8´Àº…ñ.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(–›¹8Ğ‚êøó.

@@ -1,0 +1,13 @@
+
+W
+java:S1611"5Remove the parentheses around the "message" parameter(éÃ€ÿûÿÿÿÿ8ƒèÖŒî.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…œ¼‹î.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖôûÔûÿÿÿÿ8Úó¯Œî.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8…œ¼‹î.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜Õ¬“ûÿÿÿÿ8—‚ÔŒî.
+R
+java:S1611"5Remove the parentheses around the "message" parameter(†³×Ä8—‚ÔŒî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑûÆ•ÿÿÿÿÿ8¸˜ÇŒî.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é¸Êğ8ƒèÖŒî.

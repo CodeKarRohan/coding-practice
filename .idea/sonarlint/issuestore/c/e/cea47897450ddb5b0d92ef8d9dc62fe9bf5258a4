@@ -1,0 +1,21 @@
+
+V
+java:S2589ë"8Remove this expression which always evaluates to "false"(èË”Õ8‹–«ç÷.
+Y	java:S125´"<This block of commented-out lines of code should be removed.(ÁÑ„ß8æÜÈå÷.
+Y	java:S125À"<This block of commented-out lines of code should be removed.(ÁÑ„ß8æÜÈå÷.
+Y	java:S125¶"<This block of commented-out lines of code should be removed.(ÁÑ„ß8æÜÈå÷.
+Y	java:S125¼"<This block of commented-out lines of code should be removed.(ÁÑ„ß8æÜÈå÷.
+ª
+java:S2681í"†This line will not be executed conditionally; only the first line of this 3-line block will be. The rest will execute unconditionally.(—ð¢™úÿÿÿÿ8±µ«ç÷.
+¤
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºŒæžûÿÿÿÿ8†Ôâ½ø.
+^	java:S125Â"<This block of commented-out lines of code should be removed.(ÆÙÜ‡ûÿÿÿÿ8ãÐûå÷.
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¼ê8æÜÈå÷.
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8æÜÈå÷.
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¼ê8æÜÈå÷.
+^	java:S125¾"<This block of commented-out lines of code should be removed.(ß–Í€úÿÿÿÿ8æÜÈå÷.
+V
+java:S2589ë"8Remove this expression which always evaluates to "false"(èË”Õ8‹–«ç÷.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(¢ç‹ßþÿÿÿÿ8æÜÈå÷.
+ª
+java:S2681œ"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(˜Ú©Òûÿÿÿÿ8æÜÈå÷.

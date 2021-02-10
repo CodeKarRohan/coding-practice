@@ -1,0 +1,12 @@
+
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(·ÿ¤Ôûÿÿÿÿ8Î×±¾ö.
+
+java:S1319@"pThe type of the "temp" object should be an interface such as "List" rather than the implementation "LinkedList".( Îáà8Ù¼Ÿ¾ö.
+
+java:S1319"qThe type of the "nextP" object should be an interface such as "List" rather than the implementation "LinkedList".(§²ÿ‹8íµ…¾ö.
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(Œƒè©ıÿÿÿÿ8……²¾ö.
+v
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦üò¼8»ÛŒ¾ö.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(Œƒè©ıÿÿÿÿ8Û’±¾ö.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(õ§´°ıÿÿÿÿ8àÈ¬¾ö.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(õ§´°ıÿÿÿÿ8‰Æë½ö.
